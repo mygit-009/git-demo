@@ -13,3 +13,4 @@ hello git,hello atguigu!
 hello git,hello atguigu!
 hello git,hello atguigu!
 222222222222222222222222
+ssh免密钥登录
